@@ -1,4 +1,7 @@
 
+# Important info
+- the .obsidian folder can be ignored, thats just for my text editor
+
 # Evidence
 
 ## HTML
