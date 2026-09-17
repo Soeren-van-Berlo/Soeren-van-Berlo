@@ -1,0 +1,10 @@
+.container {
+    display: grid;
+    background-color: gray;
+    margin: 10px;
+}
+
+.recipe {
+    background-color: darkgrey;
+    color: black;
+}
