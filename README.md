@@ -15,4 +15,4 @@
 
 # Project
 
-For my/our Project files (Use Cases) please look on teams in the OneNote file named "Project overview"
+- For my/our Project files (Use Cases) please look on teams in the OneNote file named "Project overview"
